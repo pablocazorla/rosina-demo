@@ -1,0 +1,91 @@
+{
+  "elementsTotal": 6,
+  "from": "2024-06-11",
+  "to": "2024-06-19",
+  "data": [
+    {
+      "id": "1",
+      "client_id": "2",
+      "client_name": "Ad Gilbart",
+      "formula": "Spotted deer",
+      "cost": "66.47",
+      "item_ids": "2",
+      "description": "Product Management",
+      "day": "2024-06-17",
+      "startTime": "09:00:00",
+      "duration": "180",
+      "location": "2",
+      "status": "ended"
+    },
+    {
+      "id": "4",
+      "client_id": "2",
+      "client_name": "Wyn Yanez",
+      "formula": "Quoll, spotted-tailed",
+      "cost": "98.49",
+      "item_ids": "5",
+      "description": "Marketing",
+      "day": "2024-06-19",
+      "startTime": "11:15:00",
+      "duration": "90",
+      "location": "2",
+      "status": "ended"
+    },
+    {
+      "id": "3",
+      "client_id": "2",
+      "client_name": "Ronni Bathoe",
+      "formula": "Mississippi alligator",
+      "cost": "33.90",
+      "item_ids": "6",
+      "description": "Training",
+      "day": "2024-06-22",
+      "startTime": "10:30:00",
+      "duration": "60",
+      "location": "1",
+      "status": "pending"
+    },
+    {
+      "id": "5",
+      "client_id": "3",
+      "client_name": "Elizabet Stanton",
+      "formula": "Osprey",
+      "cost": "3.55",
+      "item_ids": "3",
+      "description": "Engineering",
+      "day": "2024-06-22",
+      "startTime": "13:00:00",
+      "duration": "60",
+      "location": "2",
+      "status": "pending"
+    },
+    {
+      "id": "6",
+      "client_id": "3",
+      "client_name": "Alasdair Crowley",
+      "formula": "Rhea, gray",
+      "cost": "76.05",
+      "item_ids": "3",
+      "description": "Human Resources",
+      "day": "2024-06-21",
+      "startTime": "15:30:00",
+      "duration": "60",
+      "location": "1",
+      "status": "completed"
+    },
+    {
+      "id": "2",
+      "client_id": "3",
+      "client_name": "Ky Corrigan",
+      "formula": "Old world fruit bat (unidentified)",
+      "cost": "25.61",
+      "item_ids": "4",
+      "description": "Business Development",
+      "day": "2024-06-19",
+      "startTime": "10:00:00",
+      "duration": "250",
+      "location": "1",
+      "status": "cancelled"
+    }
+  ]
+}

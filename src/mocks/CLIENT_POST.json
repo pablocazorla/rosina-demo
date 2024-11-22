@@ -1,0 +1,11 @@
+{
+  "message": "Client was created.",
+  "data": {
+    "id": "488",
+    "name": "Pablo Cazorla",
+    "dni": "24928560",
+    "birthday": "1976-01-27",
+    "phone": "2615541778",
+    "phone_contact": "2616821692"
+  }
+}

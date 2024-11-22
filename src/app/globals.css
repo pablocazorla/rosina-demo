@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #ddd;
+}
+.loading-box {
+  position: absolute;
+  display: grid;
+  place-content: start center;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  padding-top: 80px;
+  z-index: 100;
+  background-color: rgba(255, 255, 255, 0.6);
+  backdrop-filter: blur(2px);
+  border-radius: 10px;
+  animation-duration: 0.2s;
+}
+
+.loading-box.transparent {
+  background-color: transparent;
+}
+
+.loading-box.min {
+  padding-top: 15px;
+}

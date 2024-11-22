@@ -1,0 +1,10 @@
+{
+  "message": "Successful login.",
+  "user": {
+    "id": "1",
+    "firstname": "Rosana",
+    "lastname": "Corval\u00e1n",
+    "username": "rosina"
+  },
+  "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3MTg4ODY5MDcsImV4cCI6MTcxOTQ5MTcwNywiaXNzIjoiVVF1Q0NoRHVUdEtaZ05zNDlGNWkiLCJkYXRhIjp7ImlkIjoiMiIsImZpcnN0bmFtZSI6IlJvc2FuYSIsImxhc3RuYW1lIjoiQ29ydmFsXHUwMGUxbiIsInVzZXJuYW1lIjoicm9zaW5hIn19.loOBjXBTaBbA9mieicOKYiw9n6Z913YML8QQisCt2UE"
+}

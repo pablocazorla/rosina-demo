@@ -1,0 +1,100 @@
+{
+  "elementsTotal": 9,
+  "elementsInPage": 9,
+  "page": 0,
+  "pagination": "9999",
+  "orderBy": "created",
+  "orderTo": "DESC",
+  "data": [
+    {
+      "id": "10",
+      "name": "Roseline",
+      "description": "Hatity",
+      "categories": "Color",
+      "type": "Servicio",
+      "cost": "76.50",
+      "created": "2023-11-29 18:25:56"
+    },
+    {
+      "id": "9",
+      "name": "Zabrina",
+      "description": "Voltsillam",
+      "categories": "Zoolab",
+      "type": "Jakoub",
+      "cost": "59.84",
+      "created": "2023-11-29 18:25:49"
+    },
+    {
+      "id": "8",
+      "name": "Olympie",
+      "description": "Cardguard",
+      "categories": "Bytecard",
+      "type": "Creany",
+      "cost": "95.04",
+      "created": "2023-11-29 18:25:44"
+    },
+    {
+      "id": "7",
+      "name": "Kandace",
+      "description": "Zoolab",
+      "categories": "Otcom",
+      "type": "Whittaker",
+      "cost": "34.86",
+      "created": "2023-11-29 18:25:37"
+    },
+    {
+      "id": "6",
+      "name": "Faun",
+      "description": "Cardguard",
+      "categories": "Solarbreeze",
+      "type": "Janata",
+      "cost": "66.42",
+      "created": "2023-11-29 18:25:31"
+    },
+    {
+      "id": "5",
+      "name": "Alissa",
+      "description": "Quo Lux",
+      "categories": "Temp",
+      "type": "Cooch",
+      "cost": "40.43",
+      "created": "2023-11-29 18:25:25"
+    },
+    {
+      "id": "4",
+      "name": "Nobe",
+      "description": "Andalax",
+      "categories": "Redhold",
+      "type": "Krysztofowicz",
+      "cost": "88.48",
+      "created": "2023-11-29 18:25:18"
+    },
+    {
+      "id": "3",
+      "name": "Dare",
+      "description": "Tempsoft",
+      "categories": "Subin",
+      "type": "Dizlie",
+      "cost": "11.79",
+      "created": "2023-11-29 18:25:12"
+    },
+    {
+      "id": "2",
+      "name": "Corte de pelo",
+      "description": "Andalax",
+      "categories": "Sonair",
+      "type": "Mungin",
+      "cost": "71.80",
+      "created": "2023-11-29 18:25:03"
+    },
+    {
+      "id": "156",
+      "name": "Otros",
+      "description": "Otros",
+      "categories": "Otros",
+      "type": "Otros",
+      "cost": "0",
+      "created": "2023-11-29 18:25:49"
+    }
+  ]
+}
